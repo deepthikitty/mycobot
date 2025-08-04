@@ -4,7 +4,6 @@ import requests
 import json
 import pandas as pd
 import os
-import speech_recognition as sr
 
 # === CONFIGURATION ===
 TOGETHER_API_KEY = "34fd9c74150ef46528dd487841a21c3500de59791b22a102c1305e2beee7f2e3"
